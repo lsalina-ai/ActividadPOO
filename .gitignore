@@ -1,0 +1,4 @@
+# Ignore Java build artifacts and editor settings
+*.class
+**/bin/
+**/.vscode/
